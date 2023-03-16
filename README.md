@@ -1,3 +1,14 @@
+Project Link: https://fast-pizza-restaurant-react-app-ui-design-kjd9.vercel.app/
+
+* Designing a restaurant app using React Next.js CSS & JavaScript to be responsive design and functional
+
+* Introduction, Navbar Design, Next.js Slider, Listing Products, Footer Design, Product Page Design, Shopping Cart Design, Order Tracking Page, Next.js Responsive Design
+
+* We can book a Pizza By this store & we can contact the store by entering the email
+
+![Resturant Fast Pizza](https://user-images.githubusercontent.com/109410990/225551722-81a05a89-9da6-425e-8e85-7c7a3d99a688.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
