@@ -7,6 +7,7 @@ Project Link: https://fast-pizza-restaurant-react-app-ui-design-kjd9.vercel.app/
 * We can book a Pizza By this store & we can contact the store by entering the email
 
 ![Resturant Fast Pizza](https://user-images.githubusercontent.com/109410990/225551722-81a05a89-9da6-425e-8e85-7c7a3d99a688.png)
+![responsive design](https://user-images.githubusercontent.com/109410990/225552483-3ae0d253-fcb1-4972-adef-2c9e0fb3da44.png)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
